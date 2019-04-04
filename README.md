@@ -1,2 +1,2 @@
 # cmsc491sp19
-a place for my assignments as Jupyter NBs
+[link to NB viewer](http://nbviewer.jupyter.org)
